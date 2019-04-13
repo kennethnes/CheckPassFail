@@ -1,6 +1,7 @@
 
 public class CheckPassFail{
   public static void main(String[] args) {
+    System.out.println("Hello World!")
     int mark = 49;
     System.out.print("This mark is " + mark);
 
